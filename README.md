@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tori</h1>
+<h1 align="center">Hey there 🤸, I'm Tori</h1>
 
-- 🔭 I’m currently working on [Data Visualisation - Milestone 2 AiCore](https://github.com/Tori2305/Customer_loans_in_finance.git)
+- 🔭 My current project I'm working on is: [Data Visualisation - Milestone 2 AiCore](https://github.com/Tori2305/Customer_loans_in_finance.git)
 
-- 🌱 I’m currently learning **Data Analytics: Microsoft Power Bi Data Analyst Associate (PL-300) certificate**
+- 🌱 As an associate with AiCore I am studying towards my **Data Analytics: Microsoft Power Bi Data Analyst Associate (PL-300) certificate**
 
 - 👯 I’ve recently decided **to switch careers, so this is all brand new to me, any tips would be very welcome!**
 
 - 📫 How to reach me **torigilbert@hotmail.com**
 
-- ⚡ Fun fact **I love watching and playing sports**
+- ⚡ Fun fact **When I am not behind a screen you'll find me outside 🍃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
