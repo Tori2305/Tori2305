@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tori</h1>
+
 - 🔭 I’m currently working on [Data Visualisation - Milestone 2 AiCore](https://github.com/Tori2305/Customer_loans_in_finance.git)
 
 - 🌱 I’m currently learning **Data Analytics: Microsoft Power Bi Data Analyst Associate (PL-300) certificate**
