@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 🤸, I'm Tori</h1>
 
-- 🔭 I've recently completed ...
+- 🔭 I've recently completed [Power BI Project for a Global retailer](https://github.com/Tori2305/Project_PowerBI_Global_Report-AiCore.git)
 
 - 🌱 As an associate with AiCore I am studying towards my **Data Analytics: Microsoft Power Bi Data Analyst Associate (PL-300) certificate**
 
